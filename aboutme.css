@@ -119,14 +119,13 @@ a.social {
   height: 30px;
   background-size: 30px 30px;
   opacity: .5;
-  transition: all .25s;
-/* }
+  transition: all .25s; }
 a.twitter {
   background-image: url(images/twitter.svg);
 }
 a.linkedin {
   background-image: url(images/linkedin.svg);
-} */
+}
 a.github {
   background-image: url(images/github.svg);
 }
